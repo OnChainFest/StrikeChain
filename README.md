@@ -57,14 +57,3 @@ npm install --legacy-peer-deps
 
 ```
 
-## 🔗 **Connect with us:**  
-
-💡 **Have ideas?** Let’s innovate together!  
-📢 **Just curious?** Follow us and stay updated with our latest developments!  
-
-🐦 Twitter: coming soon....
-
-📧 Email: coming soon...
-
-👀 Telegram: [Strikechain Community](https://t.me/+D7FBxxXqaJdkMTNh)
-
