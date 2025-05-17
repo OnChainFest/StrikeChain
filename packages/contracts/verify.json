@@ -1,8 +1,0 @@
-{
-    "etherscan": {
-        "base-sepolia": {
-            "url": "https://api-sepolia.basescan.org/api",
-            "key": "${BASESCAN_API_KEY}"
-        }
-    }
-} 
