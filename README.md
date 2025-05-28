@@ -1,6 +1,6 @@
 # ⚡ StrikeChain Frontend
 
-Welcome to the official frontend repository of **StrikeChain** — a platform that enables the organization of sports competitions and automatic prize distribution using **USDC on the Base network**.
+Welcome to the official frontend repository of **StrikeChain**; a platform that enables the organization of sports competitions and automatic prize distribution using **USDC on the Base network**.
 
 ---
 
@@ -31,8 +31,8 @@ Make sure you have the following installed:
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/StrikeChain/FrontEnd.git
-cd FrontEnd
+git clone https://github.com/OnChainFest/StrikeChain.git
+cd StrikeChain
 
 ```
  2. **Install dependencies:**
@@ -40,7 +40,7 @@ cd FrontEnd
 ```bash
 
 npm install
-pnpm install
+
 ```
 3. **Start the local development server**
 ```bash
@@ -56,4 +56,3 @@ If you encounter errors like `ERESOLVE unable to resolve dependency tree`, run:
 npm install --legacy-peer-deps
 
 ```
-
